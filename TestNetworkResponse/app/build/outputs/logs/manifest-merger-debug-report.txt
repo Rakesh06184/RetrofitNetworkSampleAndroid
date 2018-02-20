@@ -1,0 +1,131 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/rakesh/Downloads/NetworkRetrofitViewPager2018/TestNetworkResponse/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/rakesh/Downloads/NetworkRetrofitViewPager2018/TestNetworkResponse/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/rakesh/Downloads/NetworkRetrofitViewPager2018/TestNetworkResponse/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/rakesh/Downloads/NetworkRetrofitViewPager2018/TestNetworkResponse/app/src/main/AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:design:24.2.1] /home/rakesh/.gradle/caches/transforms-1/files-1.1/design-24.2.1.aar/1b3d70cfb89646f030f3b58f4bdc20d8/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:24.2.1] /home/rakesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/73e5838ec95eb9ab61c3bba0b353f56a/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:recyclerview-v7:24.2.1] /home/rakesh/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-24.2.1.aar/cb165152f6c6150ba6b6545f8e9d9aad/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:multidex:1.0.2] /home/rakesh/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/248acf9c03d05a6b7aed742175012a24/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:24.2.1] /home/rakesh/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/5eb348d7cdb86d7ab3af477e30ed6ca4/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/rakesh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/718a1d4230551e6a6998e4f186c54a51/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /home/rakesh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/ac5fd0e5c2a300831ecba4184d581241/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-fragment:24.2.1] /home/rakesh/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/3c906f6587bcefdb6b9d4fb89889fa2f/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:24.2.1] /home/rakesh/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/cc8a35ae741f5404c730714c8ee6f4e5/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:24.2.1] /home/rakesh/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/6431f4c2aa1b45223ffc69f5e6dc9fa6/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:24.2.1] /home/rakesh/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/712bdc85101cd76d2d6a36060f616a78/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:24.2.1] /home/rakesh/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/80339f38c999ab1b71b51fd45ab54156/AndroidManifest.xml:17:1-27:12
+INJECTED from /home/rakesh/Downloads/NetworkRetrofitViewPager2018/TestNetworkResponse/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/rakesh/Downloads/NetworkRetrofitViewPager2018/TestNetworkResponse/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/rakesh/Downloads/NetworkRetrofitViewPager2018/TestNetworkResponse/app/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /home/rakesh/Downloads/NetworkRetrofitViewPager2018/TestNetworkResponse/app/src/main/AndroidManifest.xml:3:5-69
+		INJECTED from /home/rakesh/Downloads/NetworkRetrofitViewPager2018/TestNetworkResponse/app/src/main/AndroidManifest.xml
+		INJECTED from /home/rakesh/Downloads/NetworkRetrofitViewPager2018/TestNetworkResponse/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/rakesh/Downloads/NetworkRetrofitViewPager2018/TestNetworkResponse/app/src/main/AndroidManifest.xml
+		ADDED from /home/rakesh/Downloads/NetworkRetrofitViewPager2018/TestNetworkResponse/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /home/rakesh/Downloads/NetworkRetrofitViewPager2018/TestNetworkResponse/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/rakesh/Downloads/NetworkRetrofitViewPager2018/TestNetworkResponse/app/src/main/AndroidManifest.xml
+		ADDED from /home/rakesh/Downloads/NetworkRetrofitViewPager2018/TestNetworkResponse/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /home/rakesh/Downloads/NetworkRetrofitViewPager2018/TestNetworkResponse/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/rakesh/Downloads/NetworkRetrofitViewPager2018/TestNetworkResponse/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/rakesh/Downloads/NetworkRetrofitViewPager2018/TestNetworkResponse/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/rakesh/Downloads/NetworkRetrofitViewPager2018/TestNetworkResponse/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/rakesh/Downloads/NetworkRetrofitViewPager2018/TestNetworkResponse/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /home/rakesh/Downloads/NetworkRetrofitViewPager2018/TestNetworkResponse/app/src/main/AndroidManifest.xml:6:22-76
+application
+ADDED from /home/rakesh/Downloads/NetworkRetrofitViewPager2018/TestNetworkResponse/app/src/main/AndroidManifest.xml:8:5-24:19
+MERGED from [com.android.support:design:24.2.1] /home/rakesh/.gradle/caches/transforms-1/files-1.1/design-24.2.1.aar/1b3d70cfb89646f030f3b58f4bdc20d8/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:24.2.1] /home/rakesh/.gradle/caches/transforms-1/files-1.1/design-24.2.1.aar/1b3d70cfb89646f030f3b58f4bdc20d8/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] /home/rakesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/73e5838ec95eb9ab61c3bba0b353f56a/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] /home/rakesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/73e5838ec95eb9ab61c3bba0b353f56a/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] /home/rakesh/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/5eb348d7cdb86d7ab3af477e30ed6ca4/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] /home/rakesh/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/5eb348d7cdb86d7ab3af477e30ed6ca4/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/rakesh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/718a1d4230551e6a6998e4f186c54a51/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/rakesh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/718a1d4230551e6a6998e4f186c54a51/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /home/rakesh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/ac5fd0e5c2a300831ecba4184d581241/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /home/rakesh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/ac5fd0e5c2a300831ecba4184d581241/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /home/rakesh/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/3c906f6587bcefdb6b9d4fb89889fa2f/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /home/rakesh/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/3c906f6587bcefdb6b9d4fb89889fa2f/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /home/rakesh/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/cc8a35ae741f5404c730714c8ee6f4e5/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /home/rakesh/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/cc8a35ae741f5404c730714c8ee6f4e5/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /home/rakesh/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/6431f4c2aa1b45223ffc69f5e6dc9fa6/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /home/rakesh/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/6431f4c2aa1b45223ffc69f5e6dc9fa6/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /home/rakesh/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/712bdc85101cd76d2d6a36060f616a78/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /home/rakesh/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/712bdc85101cd76d2d6a36060f616a78/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /home/rakesh/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/80339f38c999ab1b71b51fd45ab54156/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /home/rakesh/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/80339f38c999ab1b71b51fd45ab54156/AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from /home/rakesh/Downloads/NetworkRetrofitViewPager2018/TestNetworkResponse/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /home/rakesh/Downloads/NetworkRetrofitViewPager2018/TestNetworkResponse/app/src/main/AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from /home/rakesh/Downloads/NetworkRetrofitViewPager2018/TestNetworkResponse/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /home/rakesh/Downloads/NetworkRetrofitViewPager2018/TestNetworkResponse/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /home/rakesh/Downloads/NetworkRetrofitViewPager2018/TestNetworkResponse/app/src/main/AndroidManifest.xml:14:9-40
+	android:name
+		ADDED from /home/rakesh/Downloads/NetworkRetrofitViewPager2018/TestNetworkResponse/app/src/main/AndroidManifest.xml:9:9-36
+activity#com.example.rakesh.allnetworktestprojectimagedownloand.UI.MainActivity
+ADDED from /home/rakesh/Downloads/NetworkRetrofitViewPager2018/TestNetworkResponse/app/src/main/AndroidManifest.xml:16:9-23:18
+	android:name
+		ADDED from /home/rakesh/Downloads/NetworkRetrofitViewPager2018/TestNetworkResponse/app/src/main/AndroidManifest.xml:16:19-50
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/rakesh/Downloads/NetworkRetrofitViewPager2018/TestNetworkResponse/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /home/rakesh/Downloads/NetworkRetrofitViewPager2018/TestNetworkResponse/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /home/rakesh/Downloads/NetworkRetrofitViewPager2018/TestNetworkResponse/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/rakesh/Downloads/NetworkRetrofitViewPager2018/TestNetworkResponse/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /home/rakesh/Downloads/NetworkRetrofitViewPager2018/TestNetworkResponse/app/src/main/AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from /home/rakesh/Downloads/NetworkRetrofitViewPager2018/TestNetworkResponse/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/rakesh/Downloads/NetworkRetrofitViewPager2018/TestNetworkResponse/app/src/main/AndroidManifest.xml
+INJECTED from /home/rakesh/Downloads/NetworkRetrofitViewPager2018/TestNetworkResponse/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:24.2.1] /home/rakesh/.gradle/caches/transforms-1/files-1.1/design-24.2.1.aar/1b3d70cfb89646f030f3b58f4bdc20d8/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:24.2.1] /home/rakesh/.gradle/caches/transforms-1/files-1.1/design-24.2.1.aar/1b3d70cfb89646f030f3b58f4bdc20d8/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.2.1] /home/rakesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/73e5838ec95eb9ab61c3bba0b353f56a/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.2.1] /home/rakesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/73e5838ec95eb9ab61c3bba0b353f56a/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:recyclerview-v7:24.2.1] /home/rakesh/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-24.2.1.aar/cb165152f6c6150ba6b6545f8e9d9aad/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.1] /home/rakesh/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-24.2.1.aar/cb165152f6c6150ba6b6545f8e9d9aad/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] /home/rakesh/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/248acf9c03d05a6b7aed742175012a24/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] /home/rakesh/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/248acf9c03d05a6b7aed742175012a24/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.2.1] /home/rakesh/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/5eb348d7cdb86d7ab3af477e30ed6ca4/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.2.1] /home/rakesh/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/5eb348d7cdb86d7ab3af477e30ed6ca4/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/rakesh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/718a1d4230551e6a6998e4f186c54a51/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/rakesh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/718a1d4230551e6a6998e4f186c54a51/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /home/rakesh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/ac5fd0e5c2a300831ecba4184d581241/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /home/rakesh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/ac5fd0e5c2a300831ecba4184d581241/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-fragment:24.2.1] /home/rakesh/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/3c906f6587bcefdb6b9d4fb89889fa2f/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:24.2.1] /home/rakesh/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/3c906f6587bcefdb6b9d4fb89889fa2f/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:24.2.1] /home/rakesh/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/cc8a35ae741f5404c730714c8ee6f4e5/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] /home/rakesh/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/cc8a35ae741f5404c730714c8ee6f4e5/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.1] /home/rakesh/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/6431f4c2aa1b45223ffc69f5e6dc9fa6/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:24.2.1] /home/rakesh/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/6431f4c2aa1b45223ffc69f5e6dc9fa6/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] /home/rakesh/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/712bdc85101cd76d2d6a36060f616a78/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:24.2.1] /home/rakesh/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/712bdc85101cd76d2d6a36060f616a78/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.1] /home/rakesh/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/80339f38c999ab1b71b51fd45ab54156/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] /home/rakesh/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/80339f38c999ab1b71b51fd45ab54156/AndroidManifest.xml:21:5-23:58
+INJECTED from /home/rakesh/Downloads/NetworkRetrofitViewPager2018/TestNetworkResponse/app/src/main/AndroidManifest.xml
+INJECTED from /home/rakesh/Downloads/NetworkRetrofitViewPager2018/TestNetworkResponse/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] /home/rakesh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/73e5838ec95eb9ab61c3bba0b353f56a/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/rakesh/Downloads/NetworkRetrofitViewPager2018/TestNetworkResponse/app/src/main/AndroidManifest.xml
+		ADDED from /home/rakesh/Downloads/NetworkRetrofitViewPager2018/TestNetworkResponse/app/src/main/AndroidManifest.xml
+		INJECTED from /home/rakesh/Downloads/NetworkRetrofitViewPager2018/TestNetworkResponse/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/rakesh/Downloads/NetworkRetrofitViewPager2018/TestNetworkResponse/app/src/main/AndroidManifest.xml
+		ADDED from /home/rakesh/Downloads/NetworkRetrofitViewPager2018/TestNetworkResponse/app/src/main/AndroidManifest.xml
+		INJECTED from /home/rakesh/Downloads/NetworkRetrofitViewPager2018/TestNetworkResponse/app/src/main/AndroidManifest.xml

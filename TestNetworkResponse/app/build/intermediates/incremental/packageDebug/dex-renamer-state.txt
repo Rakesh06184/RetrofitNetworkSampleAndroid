@@ -1,0 +1,7 @@
+#Thu Jan 25 19:46:56 IST 2018
+base.0=C\:\\Users\\rakeshk\\Downloads\\AllNetworkTestProjectImageDownloand\\AllNetworkTestProjectImageDownloand\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d7fc8bd68a5f0df20d8b4202519a0d4350807416
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\rakeshk\\Downloads\\AllNetworkTestProjectImageDownloand\\AllNetworkTestProjectImageDownloand\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_7add41b70f2c47d0661fc5511afdb36d7643541b\\classes.dex
+base.1=C\:\\Users\\rakeshk\\Downloads\\AllNetworkTestProjectImageDownloand\\AllNetworkTestProjectImageDownloand\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_7add41b70f2c47d0661fc5511afdb36d7643541b
+file.0=C\:\\Users\\rakeshk\\Downloads\\AllNetworkTestProjectImageDownloand\\AllNetworkTestProjectImageDownloand\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d7fc8bd68a5f0df20d8b4202519a0d4350807416\\classes.dex

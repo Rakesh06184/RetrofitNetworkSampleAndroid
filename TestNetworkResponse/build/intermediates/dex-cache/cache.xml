@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\rakeshk\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.0.0-RC1\be7e96331952019f16dc52dce09ab25df29353d7\okhttp-3.0.0-RC1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="be7e96331952019f16dc52dce09ab25df29353d7">
+        <dex dex="C:\Users\rakeshk\Downloads\AllNetworkTestProjectImageDownloand\AllNetworkTestProjectImageDownloand\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.0.0-RC1_2e516e821b2dd99c6f3d0159906dffd34b9f0793\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rakeshk\.gradle\caches\modules-2\files-2.1\eu.the4thfloor.volley\com.android.volley\2015.05.28\b0b08cc0ac897e596abe6b263a9507cba875b705\com.android.volley-2015.05.28.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="b0b08cc0ac897e596abe6b263a9507cba875b705">
+        <dex dex="C:\Users\rakeshk\Downloads\AllNetworkTestProjectImageDownloand\AllNetworkTestProjectImageDownloand\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.volley-2015.05.28_28bc93438919b28894afed77a3608b947b56612d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rakeshk\.android\build-cache\fc20071fd7b92aa2362f6b5c855f49689999460d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\rakeshk\Downloads\AllNetworkTestProjectImageDownloand\AllNetworkTestProjectImageDownloand\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_914e5da825237394f4dfb505823c58af5c7a7f18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rakeshk\.android\build-cache\d7b678b97596b50cf4f3eab4f691d82b85ef569e\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\rakeshk\Downloads\AllNetworkTestProjectImageDownloand\AllNetworkTestProjectImageDownloand\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_191cca9c6722cb28178308878defc986f5bac93d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rakeshk\.android\build-cache\803ad4821f2d7774003c121a824878dd01a5e754\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\rakeshk\Downloads\AllNetworkTestProjectImageDownloand\AllNetworkTestProjectImageDownloand\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_90d4a49fa2177bfe90af65f522e3e6a30ca90320\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rakeshk\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\rakeshk\Downloads\AllNetworkTestProjectImageDownloand\AllNetworkTestProjectImageDownloand\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_8d9b91bba968cc25dfb70f28937863e741334f57\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rakeshk\Downloads\AllNetworkTestProjectImageDownloand\AllNetworkTestProjectImageDownloand\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="e109e58653ba37eb25086759c42c682e39ab3ffe">
+        <dex dex="C:\Users\rakeshk\Downloads\AllNetworkTestProjectImageDownloand\AllNetworkTestProjectImageDownloand\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_7add41b70f2c47d0661fc5511afdb36d7643541b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rakeshk\.android\build-cache\e91187b8de2f5b513e2638c5e216976b3afeaa47\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\rakeshk\Downloads\AllNetworkTestProjectImageDownloand\AllNetworkTestProjectImageDownloand\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eba5024254e71054d5ea99f1e1e21d5ec0aa3304\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rakeshk\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.0.0-RC1\83fed2e3554b8bacf8209bc22b62d76d4f674533\logging-interceptor-3.0.0-RC1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="83fed2e3554b8bacf8209bc22b62d76d4f674533">
+        <dex dex="C:\Users\rakeshk\Downloads\AllNetworkTestProjectImageDownloand\AllNetworkTestProjectImageDownloand\app\build\intermediates\transforms\dex\debug\folders\1000\10\logging-interceptor-3.0.0-RC1_4bff1766133e7f41ddeaf7ee985b08038cbfc575\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rakeshk\.android\build-cache\baeaf2f7f84630615d969fdcffb8296885a25429\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\rakeshk\Downloads\AllNetworkTestProjectImageDownloand\AllNetworkTestProjectImageDownloand\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_65e9657b4a7a2a7276cd33cbf2e70bef4754984d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rakeshk\.android\build-cache\c5d8cc3cc071cb3c1cf01ceea61d8a3d50eee1af\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\rakeshk\Downloads\AllNetworkTestProjectImageDownloand\AllNetworkTestProjectImageDownloand\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_77fcae418c80a5b0a252676413e9e8cce046cb60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rakeshk\.android\build-cache\8a11b40427fd97f265e3e5c568f054cd0cbf6c78\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\rakeshk\Downloads\AllNetworkTestProjectImageDownloand\AllNetworkTestProjectImageDownloand\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8a613cf3ab9ea225f09d86af67880623eaa2c17d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rakeshk\.android\build-cache\e91187b8de2f5b513e2638c5e216976b3afeaa47\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\rakeshk\Downloads\AllNetworkTestProjectImageDownloand\AllNetworkTestProjectImageDownloand\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eba5024254e71054d5ea99f1e1e21d5ec0aa3304\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rakeshk\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.0-beta3\8bff75d7360aaa3866f1e6949c877dfcc2b3d3e2\converter-gson-2.0.0-beta3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="8bff75d7360aaa3866f1e6949c877dfcc2b3d3e2">
+        <dex dex="C:\Users\rakeshk\Downloads\AllNetworkTestProjectImageDownloand\AllNetworkTestProjectImageDownloand\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.0.0-beta3_6528f86b62ba0003c0d0bfbe0060270e916fce75\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rakeshk\.android\build-cache\c9aae1896832e921fe3625b2cc76f5f5e204b18f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\rakeshk\Downloads\AllNetworkTestProjectImageDownloand\AllNetworkTestProjectImageDownloand\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b41f07ec069ae79750bf01062f73a726217f6fe9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rakeshk\.android\build-cache\4387a63281419875514845892e5967c3021f5ad2\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\rakeshk\Downloads\AllNetworkTestProjectImageDownloand\AllNetworkTestProjectImageDownloand\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_27c545cc55792122a47a4976c4b747d1eaf1404e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rakeshk\.android\build-cache\6c419ac949a111633f40d527d3a2bfdacbdb9c31\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\rakeshk\Downloads\AllNetworkTestProjectImageDownloand\AllNetworkTestProjectImageDownloand\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a8b413357640a0dddd69a1aa4004b19c1136eb4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rakeshk\.android\build-cache\baeaf2f7f84630615d969fdcffb8296885a25429\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\rakeshk\Downloads\AllNetworkTestProjectImageDownloand\AllNetworkTestProjectImageDownloand\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_868000ae9e15c69efa279b123199558fdd093d22\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rakeshk\.android\build-cache\4387a63281419875514845892e5967c3021f5ad2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\rakeshk\Downloads\AllNetworkTestProjectImageDownloand\AllNetworkTestProjectImageDownloand\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4f5903e0cc920fa17c9ac78f6cc7b0cb705c839c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rakeshk\Downloads\AllNetworkTestProjectImageDownloand\AllNetworkTestProjectImageDownloand\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="C:\Users\rakeshk\Downloads\AllNetworkTestProjectImageDownloand\AllNetworkTestProjectImageDownloand\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d7fc8bd68a5f0df20d8b4202519a0d4350807416\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rakeshk\.android\build-cache\8e35c4e191764bf807a6ab08623c06eb9295a2e1\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\rakeshk\Downloads\AllNetworkTestProjectImageDownloand\AllNetworkTestProjectImageDownloand\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_4763192c179f26ff8fc41ac195605cea4e3fd626\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rakeshk\.android\build-cache\baeaf2f7f84630615d969fdcffb8296885a25429\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\rakeshk\Downloads\AllNetworkTestProjectImageDownloand\AllNetworkTestProjectImageDownloand\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_65e9657b4a7a2a7276cd33cbf2e70bef4754984d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rakeshk\.android\build-cache\70379de16739b187cd938e46e16316f73b72a379\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\rakeshk\Downloads\AllNetworkTestProjectImageDownloand\AllNetworkTestProjectImageDownloand\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fa206ed7c452223f612a58a5636a42f308db8953\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rakeshk\.android\build-cache\8e35c4e191764bf807a6ab08623c06eb9295a2e1\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\rakeshk\Downloads\AllNetworkTestProjectImageDownloand\AllNetworkTestProjectImageDownloand\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_4763192c179f26ff8fc41ac195605cea4e3fd626\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rakeshk\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.0.0-RC1\83fed2e3554b8bacf8209bc22b62d76d4f674533\logging-interceptor-3.0.0-RC1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="83fed2e3554b8bacf8209bc22b62d76d4f674533">
+        <dex dex="C:\Users\rakeshk\Downloads\AllNetworkTestProjectImageDownloand\AllNetworkTestProjectImageDownloand\app\build\intermediates\transforms\dex\debug\folders\1000\10\logging-interceptor-3.0.0-RC1_4bff1766133e7f41ddeaf7ee985b08038cbfc575\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rakeshk\.android\build-cache\8e35c4e191764bf807a6ab08623c06eb9295a2e1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\rakeshk\Downloads\AllNetworkTestProjectImageDownloand\AllNetworkTestProjectImageDownloand\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e337717b10b73de302a795f3925b5cb0a4a94ade\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rakeshk\.android\build-cache\8a11b40427fd97f265e3e5c568f054cd0cbf6c78\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\rakeshk\Downloads\AllNetworkTestProjectImageDownloand\AllNetworkTestProjectImageDownloand\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_68cb08821658dba1b8878fc01cacf5eea33633b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rakeshk\.android\build-cache\baeaf2f7f84630615d969fdcffb8296885a25429\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\rakeshk\Downloads\AllNetworkTestProjectImageDownloand\AllNetworkTestProjectImageDownloand\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_868000ae9e15c69efa279b123199558fdd093d22\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rakeshk\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.0-beta3\97675641051febfee098903cc0eff62f2826e34e\retrofit-2.0.0-beta3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="97675641051febfee098903cc0eff62f2826e34e">
+        <dex dex="C:\Users\rakeshk\Downloads\AllNetworkTestProjectImageDownloand\AllNetworkTestProjectImageDownloand\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.0.0-beta3_faac72d5311b512dcb1aba65f02193959ab4c3c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rakeshk\.android\build-cache\6c419ac949a111633f40d527d3a2bfdacbdb9c31\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\rakeshk\Downloads\AllNetworkTestProjectImageDownloand\AllNetworkTestProjectImageDownloand\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a8b413357640a0dddd69a1aa4004b19c1136eb4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rakeshk\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\rakeshk\Downloads\AllNetworkTestProjectImageDownloand\AllNetworkTestProjectImageDownloand\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_9dd06af4a3acdec2314f8393e78331e6da6c99b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rakeshk\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\rakeshk\Downloads\AllNetworkTestProjectImageDownloand\AllNetworkTestProjectImageDownloand\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_8d9b91bba968cc25dfb70f28937863e741334f57\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rakeshk\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.4\695b63d702f505b9b916e02272e3b6381bade7f\gson-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="C:\Users\rakeshk\Downloads\AllNetworkTestProjectImageDownloand\AllNetworkTestProjectImageDownloand\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.4_bcffd497a1c11a7d8f9cce08854422b6ff545938\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rakeshk\.android\build-cache\d7b678b97596b50cf4f3eab4f691d82b85ef569e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\rakeshk\Downloads\AllNetworkTestProjectImageDownloand\AllNetworkTestProjectImageDownloand\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a8128fce9e842f2d3ab9d4a19b471745a2bb23fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rakeshk\.android\build-cache\c9aae1896832e921fe3625b2cc76f5f5e204b18f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\rakeshk\Downloads\AllNetworkTestProjectImageDownloand\AllNetworkTestProjectImageDownloand\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b41f07ec069ae79750bf01062f73a726217f6fe9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rakeshk\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.4\695b63d702f505b9b916e02272e3b6381bade7f\gson-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="C:\Users\rakeshk\Downloads\AllNetworkTestProjectImageDownloand\AllNetworkTestProjectImageDownloand\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.4_bcffd497a1c11a7d8f9cce08854422b6ff545938\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rakeshk\.android\build-cache\fc20071fd7b92aa2362f6b5c855f49689999460d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\rakeshk\Downloads\AllNetworkTestProjectImageDownloand\AllNetworkTestProjectImageDownloand\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_914e5da825237394f4dfb505823c58af5c7a7f18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rakeshk\.android\build-cache\d7b678b97596b50cf4f3eab4f691d82b85ef569e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\rakeshk\Downloads\AllNetworkTestProjectImageDownloand\AllNetworkTestProjectImageDownloand\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a8128fce9e842f2d3ab9d4a19b471745a2bb23fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rakeshk\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.0.0-RC1\be7e96331952019f16dc52dce09ab25df29353d7\okhttp-3.0.0-RC1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="be7e96331952019f16dc52dce09ab25df29353d7">
+        <dex dex="C:\Users\rakeshk\Downloads\AllNetworkTestProjectImageDownloand\AllNetworkTestProjectImageDownloand\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.0.0-RC1_2e516e821b2dd99c6f3d0159906dffd34b9f0793\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rakeshk\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.0-beta3\97675641051febfee098903cc0eff62f2826e34e\retrofit-2.0.0-beta3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="97675641051febfee098903cc0eff62f2826e34e">
+        <dex dex="C:\Users\rakeshk\Downloads\AllNetworkTestProjectImageDownloand\AllNetworkTestProjectImageDownloand\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.0.0-beta3_faac72d5311b512dcb1aba65f02193959ab4c3c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rakeshk\.android\build-cache\803ad4821f2d7774003c121a824878dd01a5e754\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\rakeshk\Downloads\AllNetworkTestProjectImageDownloand\AllNetworkTestProjectImageDownloand\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_90d4a49fa2177bfe90af65f522e3e6a30ca90320\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rakeshk\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\rakeshk\Downloads\AllNetworkTestProjectImageDownloand\AllNetworkTestProjectImageDownloand\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_9dd06af4a3acdec2314f8393e78331e6da6c99b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rakeshk\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.0-beta3\8bff75d7360aaa3866f1e6949c877dfcc2b3d3e2\converter-gson-2.0.0-beta3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bff75d7360aaa3866f1e6949c877dfcc2b3d3e2">
+        <dex dex="C:\Users\rakeshk\Downloads\AllNetworkTestProjectImageDownloand\AllNetworkTestProjectImageDownloand\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.0.0-beta3_6528f86b62ba0003c0d0bfbe0060270e916fce75\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rakeshk\.android\build-cache\8a11b40427fd97f265e3e5c568f054cd0cbf6c78\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\rakeshk\Downloads\AllNetworkTestProjectImageDownloand\AllNetworkTestProjectImageDownloand\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8a613cf3ab9ea225f09d86af67880623eaa2c17d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rakeshk\.android\build-cache\8a11b40427fd97f265e3e5c568f054cd0cbf6c78\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\rakeshk\Downloads\AllNetworkTestProjectImageDownloand\AllNetworkTestProjectImageDownloand\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_68cb08821658dba1b8878fc01cacf5eea33633b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rakeshk\Downloads\AllNetworkTestProjectImageDownloand\AllNetworkTestProjectImageDownloand\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="C:\Users\rakeshk\Downloads\AllNetworkTestProjectImageDownloand\AllNetworkTestProjectImageDownloand\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d7fc8bd68a5f0df20d8b4202519a0d4350807416\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rakeshk\.android\build-cache\4387a63281419875514845892e5967c3021f5ad2\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\rakeshk\Downloads\AllNetworkTestProjectImageDownloand\AllNetworkTestProjectImageDownloand\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_27c545cc55792122a47a4976c4b747d1eaf1404e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rakeshk\.android\build-cache\c5d8cc3cc071cb3c1cf01ceea61d8a3d50eee1af\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\rakeshk\Downloads\AllNetworkTestProjectImageDownloand\AllNetworkTestProjectImageDownloand\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_77fcae418c80a5b0a252676413e9e8cce046cb60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rakeshk\.android\build-cache\4387a63281419875514845892e5967c3021f5ad2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\rakeshk\Downloads\AllNetworkTestProjectImageDownloand\AllNetworkTestProjectImageDownloand\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4f5903e0cc920fa17c9ac78f6cc7b0cb705c839c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rakeshk\Downloads\AllNetworkTestProjectImageDownloand\AllNetworkTestProjectImageDownloand\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e109e58653ba37eb25086759c42c682e39ab3ffe">
+        <dex dex="C:\Users\rakeshk\Downloads\AllNetworkTestProjectImageDownloand\AllNetworkTestProjectImageDownloand\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_7add41b70f2c47d0661fc5511afdb36d7643541b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rakeshk\.gradle\caches\modules-2\files-2.1\eu.the4thfloor.volley\com.android.volley\2015.05.28\b0b08cc0ac897e596abe6b263a9507cba875b705\com.android.volley-2015.05.28.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b0b08cc0ac897e596abe6b263a9507cba875b705">
+        <dex dex="C:\Users\rakeshk\Downloads\AllNetworkTestProjectImageDownloand\AllNetworkTestProjectImageDownloand\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.volley-2015.05.28_28bc93438919b28894afed77a3608b947b56612d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rakeshk\.android\build-cache\d7b678b97596b50cf4f3eab4f691d82b85ef569e\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\rakeshk\Downloads\AllNetworkTestProjectImageDownloand\AllNetworkTestProjectImageDownloand\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_191cca9c6722cb28178308878defc986f5bac93d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rakeshk\.android\build-cache\8e35c4e191764bf807a6ab08623c06eb9295a2e1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\rakeshk\Downloads\AllNetworkTestProjectImageDownloand\AllNetworkTestProjectImageDownloand\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e337717b10b73de302a795f3925b5cb0a4a94ade\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rakeshk\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.8.0\9bada650e1afe9c6174ddc0d113c1fce4dc26fe0\glide-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9bada650e1afe9c6174ddc0d113c1fce4dc26fe0">
+        <dex dex="C:\Users\rakeshk\Downloads\AllNetworkTestProjectImageDownloand\AllNetworkTestProjectImageDownloand\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.8.0_996b4f9988c7cd6f9fed1570979b5c9f50cd0503\classes.dex" />
+    </item>
+
+</items>

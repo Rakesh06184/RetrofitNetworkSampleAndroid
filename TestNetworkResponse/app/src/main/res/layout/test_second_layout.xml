@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+
+    <ImageView
+        android:id="@+id/image_view"
+        android:layout_width="130dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/barcelona" />
+
+    <TextView
+        android:id="@+id/film_name"
+        android:text="Flim Name"
+        android:textSize="18sp"
+        android:layout_toRightOf="@id/image_view"
+        android:textColor="@android:color/black"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_alignTop="@+id/image_view"
+         />
+
+    <TextView
+        android:id="@+id/date"
+        android:text=" date"
+        android:textSize="14sp"
+        android:layout_marginTop="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_below="@+id/film_name"
+        android:layout_toRightOf="@+id/image_view" />
+
+    <TextView
+        android:id="@+id/channnel_name"
+        android:text="Channel name"
+        android:textSize="18sp"
+        android:textColor="@android:color/black"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="5dp"
+        android:layout_below="@+id/date"
+        android:layout_toRightOf="@+id/image_view" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_4dp"
+        android:background="@android:color/white">
+    </View>
+
+    <ProgressBar
+        android:id="@+id/progress_bar"
+        android:layout_width="wrap_content"
+        android:visibility="visible"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        />
+
+</RelativeLayout>

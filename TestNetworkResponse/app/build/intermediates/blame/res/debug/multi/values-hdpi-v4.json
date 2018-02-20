@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "C:\\Users\\rakeshk\\Downloads\\AllNetworkTestProjectImageDownloand\\AllNetworkTestProjectImageDownloand\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 13,
+                    "endOffset": 327
+                },
+                "from": {
+                    "file": "C:\\Users\\rakeshk\\.android\\build-cache\\c5d8cc3cc071cb3c1cf01ceea61d8a3d50eee1af\\output\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 6,
+                        "endColumn": 13,
+                        "endOffset": 327
+                    }
+                }
+            }
+        ]
+    }
+]

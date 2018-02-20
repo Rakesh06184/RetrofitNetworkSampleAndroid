@@ -1,0 +1,4 @@
+#Tue Feb 20 00:12:22 IST 2018
+base.0=/home/rakesh/Downloads/NetworkRetrofitViewPager2018/TestNetworkResponse/app/build/intermediates/transforms/dexMerger/debug/6
+path.0=classes.dex
+renamed.0=classes.dex
